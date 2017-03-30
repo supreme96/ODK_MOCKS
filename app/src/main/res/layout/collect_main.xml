@@ -36,6 +36,7 @@
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
                 android:textAlignment="center"
+                android:textColor="#757575"
                 android:text="ODK Collect - v1.16.23"
                 android:textSize="35sp"/>
 
