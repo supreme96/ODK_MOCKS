@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.form1);
-        NestedScrollView nsv = (NestedScrollView) findViewById(R.id.nsv);
+        /*NestedScrollView nsv = (NestedScrollView) findViewById(R.id.nsv);
         final FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         nsv.setOnScrollChangeListener(new NestedScrollView.OnScrollChangeListener() {
             @Override
@@ -22,6 +22,6 @@ public class MainActivity extends AppCompatActivity {
                     fab.hide();
                 }
             }
-        });
+        });*/
     }
 }
