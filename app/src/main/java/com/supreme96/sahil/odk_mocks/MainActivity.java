@@ -10,7 +10,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.saved_form);
+        setContentView(R.layout.blank_forms_list);
         /*NestedScrollView nsv = (NestedScrollView) findViewById(R.id.nsv);
         final FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         nsv.setOnScrollChangeListener(new NestedScrollView.OnScrollChangeListener() {
