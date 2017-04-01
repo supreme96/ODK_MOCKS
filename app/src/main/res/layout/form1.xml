@@ -164,11 +164,12 @@
             app:title="Example Form - Question 11 of 20"
             app:layout_scrollFlags="scroll|exitUntilCollapsed">
 
-            <ImageView
+            <TextView
                 android:layout_margin="20dp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:src="@drawable/logo"
+                android:text="Personal Details Form"
+                android:textSize="40sp"
                 android:scaleType="fitXY"/>
 
             <android.support.v7.widget.Toolbar
