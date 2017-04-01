@@ -6,15 +6,6 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#E4E2E4">
-<!--
-
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="40dp"
-        android:text="\t\tQuestion 11 of 20"
-        android:textSize="20sp"
-        android:textColor="#000000"/>
--->
 
     <android.support.v4.widget.NestedScrollView
         android:layout_width="match_parent"
@@ -161,7 +152,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             app:contentScrim="?attr/colorPrimary"
-            app:title="Example Form - Question 11 of 20"
+            app:title="Progress - Question 11 of 20"
             app:layout_scrollFlags="scroll|exitUntilCollapsed">
 
             <TextView
